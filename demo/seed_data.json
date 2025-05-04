@@ -1,0 +1,58 @@
+[
+  {
+    "product": "Chaqueta oversize",
+    "category": "ropa exterior",
+    "location": "Madrid",
+    "date": "2025-04-01",
+    "units_sold": 35,
+    "inventory": 120
+  },
+  {
+    "product": "Pantalón cargo",
+    "category": "pantalones",
+    "location": "Barcelona",
+    "date": "2025-04-01",
+    "units_sold": 22,
+    "inventory": 80
+  },
+  {
+    "product": "Sudadera con capucha",
+    "category": "ropa superior",
+    "location": "Valencia",
+    "date": "2025-04-02",
+    "units_sold": 18,
+    "inventory": 40
+  },
+  {
+    "product": "Camiseta básica",
+    "category": "ropa superior",
+    "location": "Madrid",
+    "date": "2025-04-03",
+    "units_sold": 50,
+    "inventory": 90
+  },
+  {
+    "product": "Chaqueta oversize",
+    "category": "ropa exterior",
+    "location": "Sevilla",
+    "date": "2025-04-03",
+    "units_sold": 29,
+    "inventory": 35
+  },
+  {
+    "product": "Falda midi",
+    "category": "ropa inferior",
+    "location": "Barcelona",
+    "date": "2025-04-04",
+    "units_sold": 25,
+    "inventory": 60
+  },
+  {
+    "product": "Zapatos deportivos",
+    "category": "calzado",
+    "location": "Bilbao",
+    "date": "2025-04-05",
+    "units_sold": 42,
+    "inventory": 70
+  }
+]
